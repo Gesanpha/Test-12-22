@@ -1,5 +1,5 @@
 header ul{
-    margin-left: 400px;
+    margin-left: 500px;
 }
 
 header{
@@ -16,19 +16,11 @@ img{
     border-top-right-radius: 20px;
 }
 
-.row{
-    display: flex;
-    justify-content: space-between;
-
-}
-
-footer .container{
-    background-color: rgba(160, 35, 35, 0.464);
-    border-radius: 20px;
-    width: 100%;
+footer .row {
+    
     color: white;
     padding: 40px;
-    justify-content: space-between;
+ 
 
 }
 
